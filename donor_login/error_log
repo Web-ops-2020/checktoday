@@ -1,0 +1,6 @@
+[23-Mar-2018 07:41:40 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/uy17alictproject/public_html/donor_login/d_login.php on line 24
+[23-Mar-2018 07:41:40 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/uy17alictproject/public_html/donor_login/d_login.php on line 29
+[23-Mar-2018 07:42:18 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/uy17alictproject/public_html/donor_login/d_login.php on line 24
+[23-Mar-2018 07:42:18 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/uy17alictproject/public_html/donor_login/d_login.php on line 29
+[23-Mar-2018 07:46:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uy17alictproject/public_html/donor_login/d_home.php:64) in /home/uy17alictproject/public_html/donor_login/d_home.php on line 67
+[23-Mar-2018 07:47:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uy17alictproject/public_html/donor_login/d_home.php:64) in /home/uy17alictproject/public_html/donor_login/d_home.php on line 67

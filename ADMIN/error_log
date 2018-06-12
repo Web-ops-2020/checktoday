@@ -1,0 +1,4 @@
+[23-Mar-2018 08:18:54 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/uy17alictproject/public_html/ADMIN/admin_login.php on line 57
+[23-Mar-2018 08:18:54 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/uy17alictproject/public_html/ADMIN/admin_login.php on line 62
+[23-Mar-2018 08:21:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uy17alictproject/public_html/ADMIN/admin_login.php:48) in /home/uy17alictproject/public_html/ADMIN/admin_login.php on line 66
+[23-Mar-2018 08:22:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uy17alictproject/public_html/ADMIN/admin_home.php:28) in /home/uy17alictproject/public_html/ADMIN/admin_home.php on line 31

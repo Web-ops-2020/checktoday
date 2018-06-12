@@ -1,0 +1,2 @@
+[23-Mar-2018 07:54:39 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/uy17alictproject/public_html/recipient_login/r_login.php on line 24
+[23-Mar-2018 07:54:39 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/uy17alictproject/public_html/recipient_login/r_login.php on line 29
